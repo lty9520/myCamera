@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">myCamera</string>
+    <string name="str_photo">PHOTO</string>
+    <string name="str_exit">EXIT</string>
+    <string name="str_album">ALBUM</string>
+    <string name="str_title">Hello World</string>
+    <string name="str_newPrj">New Project</string>
+    <string name="str_managePrj">Manage Project</string>
+    <string name="str_back">Back</string>
+    <string name="str_checkPrj">Check \n Project</string>
+    <string name="str_backToPhoto">Back To Photo</string>
+    <string name="str_backToMain">Back To Main</string>
+</resources>
