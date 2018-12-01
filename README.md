@@ -1,0 +1,2 @@
+# myCamera
+Android Camera Demo
